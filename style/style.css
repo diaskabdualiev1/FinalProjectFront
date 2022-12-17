@@ -1,0 +1,16 @@
+body,html{
+    overflow: hidden;
+}
+.container{
+    scroll-snap-type: y mandatory;
+    overflow: scroll;
+    height: 100%;
+}
+
+.child{
+    
+    background-color: aqua;
+    border: 1px solid black;
+    scroll-snap-align: start;
+    scroll-padding: 50%;
+}
