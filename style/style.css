@@ -1,16 +1,47 @@
 body,html{
+    margin: 0;
+    padding: 0;
     overflow: hidden;
+    overflow-y: none;
 }
 .container{
     scroll-snap-type: y mandatory;
     overflow: scroll;
+    overflow-y: none;
     height: 100%;
 }
 
 .child{
-    
+    overflow-y: none;
+    text-align: center;
     background-color: aqua;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     scroll-snap-align: start;
     scroll-padding: 50%;
 }
+.car{
+    overflow-y: none;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+.container{
+    position: relative;
+}
+.navbar{
+    width: 100%;
+    z-index: 1;
+    position: absolute;
+}
+.navbar p{
+    font-size: 24px;
+}
+.tesla-icon{
+    height: 15px;
+    margin: 20px 0px 0px 50px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
