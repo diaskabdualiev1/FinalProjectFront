@@ -3,6 +3,7 @@
     justify-content: space-between;
     background: none;
 }
+
 .tesla img{
     width: auto;
     height: 35px;
@@ -23,7 +24,7 @@
 .capcha img{
     width: 326px;
     height: auto;
-    border-radius: 3px;
+    border-radius: 5px;
     margin-top: 10px;
 }
 .btn{
@@ -31,35 +32,62 @@
     height: 40px;
     margin-top: 15px;
     font-size: 20px;
-    background-color: cornflowerblue;
+    background-color: #3e6ae1;
     border-radius: 5px;
     color: white;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .register{
     width: 320px;
     height: 40px;
     font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 .first input{
     width: 320px;
     height: 40px;
     background-color: #f4f4f4;
     border: none;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .last input{
     width: 320px;
     height: 40px;
     background-color: #f4f4f4;
     border: none;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .enter_capcha input{
     width: 320px;
     height: 40px;
     background-color: #f4f4f4;
     border: none;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .text_caption{
     width: 320px;
     height: 40px;
     font-size: 15px;
+    color: #5c5e62;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.enter_capcha h3{
+    color: #5c5e62;
+}
+.first h3{
+    color: #5c5e62;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.last{
+    color: #5c5e62;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.step h4{
+    color: #5c5e62;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
