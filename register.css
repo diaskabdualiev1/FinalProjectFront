@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background: none;
+}
+.tesla img{
+    width: auto;
+    height: 35px;
+}
+.global{
+    display: flex;
+}
+.global img{
+    width: auto;
+    height: 35px;
+}
+.containers{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    margin-top: 40px;
+}
