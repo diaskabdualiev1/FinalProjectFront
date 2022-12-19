@@ -20,3 +20,46 @@
     margin: 5px;
     margin-top: 40px;
 }
+.capcha img{
+    width: 326px;
+    height: auto;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+.btn{
+    width: 320px;
+    height: 40px;
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    color: white;
+}
+.register{
+    width: 320px;
+    height: 40px;
+    font-size: 20px;
+}
+.first input{
+    width: 320px;
+    height: 40px;
+    background-color: #f4f4f4;
+    border: none;
+}
+.last input{
+    width: 320px;
+    height: 40px;
+    background-color: #f4f4f4;
+    border: none;
+}
+.enter_capcha input{
+    width: 320px;
+    height: 40px;
+    background-color: #f4f4f4;
+    border: none;
+}
+.text_caption{
+    width: 320px;
+    height: 40px;
+    font-size: 15px;
+}
