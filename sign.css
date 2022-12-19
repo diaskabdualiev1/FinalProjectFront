@@ -21,7 +21,7 @@
 .account{
     width: 332px;
     height: 300px;
-    font-family: 'Gotham SSm', sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
 .acc{
@@ -38,11 +38,13 @@
     font-size: 20px;
     background-color: cornflowerblue;
     border-radius: 5px;
-    color: white;
+    color: #f4f4f4;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .sign{
     font-size: 15px;
-    font-family: 'Gotham SSm', sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
     margin: 5px;
 }
@@ -52,11 +54,15 @@
     border-radius: 5px;
     outline-color: none;
     font-size: larger;
+    border: 0px;
+    background-color: #f4f4f4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .email h4{
     margin: 3px;
     font-size: 15px;
     color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 .help{
@@ -65,15 +71,18 @@
     width: 328px;
     height: 40px;
     margin-left: 90px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 .or h4{
     font-size: 20px;
     margin-left: 12%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .buttons{
     width: 328px;
     height: 40px;
     margin-top: 15px;
     font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
