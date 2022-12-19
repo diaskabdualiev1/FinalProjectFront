@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background: none;
+}
+.tesla img{
+    width: auto;
+    height: 20px;
+}
+.global img{
+    width: auto;
+    height: 20px;
+}
+.global{
+    display: flex;
+  
+}
+.global h3{
+    margin: 3px;
+}
+.account{
+    margin-left: auto;
+    margin-right: auto;
+}
