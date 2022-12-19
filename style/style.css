@@ -44,4 +44,34 @@ body,html{
     display: flex;
     justify-content: space-between;
 }
+.navbar-button{
+    font-size: 16px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: transparent;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin: 20px 5px 0px 5px;
+    padding: 0px 8px 0px 8px;
+    
+}
+.navbar-button:hover{
+    background-color: rgba(148, 148, 148, 0.288);
+}
+.name{
+    position: absolute;
+    z-index: 2;
+    margin: 10% 40% 0% 40%;
+    width: 300px;
+}
+.name p{
+    display: flex;
+    justify-content: center;
+
+}
+.name-car{
+    font-size: 48px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 
