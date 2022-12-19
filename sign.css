@@ -5,20 +5,69 @@
 }
 .tesla img{
     width: auto;
-    height: 20px;
+    height: 35px;
 }
 .global img{
     width: auto;
-    height: 20px;
+    height: 35px;
 }
 .global{
     display: flex;
   
 }
 .global h3{
-    margin: 3px;
+    margin: 8px;
 }
 .account{
-    margin-left: auto;
-    margin-right: auto;
+    width: 332px;
+    height: 300px;
+    font-style: "Gotham SSm";
+    
+}
+.acc{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    
+}
+.btn{
+    width: 328px;
+    height: 40px;
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
+.sign{
+    font-size: 20px;
+    font-family: "Gotham SSm";
+    margin: 5px;
+}
+.email input{
+    width: 320px;
+    height: 40px;
+    border-radius: 5px;
+    outline-color: none;
+}
+.email h4{
+    margin: 3px;
+
+}
+.help{
+    font-size: 20px;
+    margin-top: 40px;
+    width: 328px;
+    height: 40px;
+    margin-left: 90px;
+
+}
+.or h4{
+    font-size: 20px;
+    margin-left: 13%;
+}
+.btnn{
+    width: 328px;
+    height: 40px;
+    margin-top: 15px;
+    font-size: 15px;
 }
