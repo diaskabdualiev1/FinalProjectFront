@@ -1,0 +1,79 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background: none;
+}
+.tesla img{
+    width: auto;
+    height: 35px;
+}
+.global img{
+    width: auto;
+    height: 35px;
+}
+.global{
+    display: flex;
+  
+}
+.global h3{
+    margin: 8px;
+}
+.account{
+    width: 332px;
+    height: 300px;
+    font-family: 'Gotham SSm', sans-serif;
+    
+}
+.acc{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    margin-top: 40px;
+    
+}
+.btn{
+    width: 328px;
+    height: 40px;
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    color: white;
+}
+.sign{
+    font-size: 15px;
+    font-family: 'Gotham SSm', sans-serif;
+    
+    margin: 5px;
+}
+.email input{
+    width: 320px;
+    height: 40px;
+    border-radius: 5px;
+    outline-color: none;
+    font-size: larger;
+}
+.email h4{
+    margin: 3px;
+    font-size: 15px;
+    color: grey;
+
+}
+.help{
+    font-size: 20px;
+    margin-top: 40px;
+    width: 328px;
+    height: 40px;
+    margin-left: 90px;
+
+}
+.or h4{
+    font-size: 20px;
+    margin-left: 12%;
+}
+.buttons{
+    width: 328px;
+    height: 40px;
+    margin-top: 15px;
+    font-size: 15px;
+}
