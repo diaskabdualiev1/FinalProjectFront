@@ -117,3 +117,83 @@ body{
     height: 90%;
     padding: 0 2em;
 }
+.header-body{
+    margin: 1em auto 3em auto;
+}
+.title{
+   font-size: 3.4em;
+   color: #5c5e62; 
+}
+.stats{
+    gap: 2em;
+    margin-bottom: 1em;
+}
+.stats > div{
+    width: 1oem;
+}
+.stats h2{
+    font-size: 2.3em;
+}
+.stats h2 span{
+    font-size: 0.5em;
+}
+.btn {
+    color: #fff;
+    border: 3px #fff solid;
+    padding: 0.6em 0;
+    width: 12em;
+    border-radius: 3em;
+    font-size: 0.9em;
+    transition: 0.3s;
+}
+.btn:hover{
+    background: #fff;
+    color: #000;
+}
+.btn-mobile{
+    display: none;
+}
+.arrow{
+    width: 1.4em;
+    animation: 
+    arrow 5s ease infinite;
+    cursor: pointer;
+}
+#video{
+    padding: 6em 2em;
+}
+#video video{
+    width: 100%;
+    height: 20vw;
+    max-width: 1200px;
+}
+.gauge img{
+    width: 3.5em;
+}
+.specs{
+    padding: 0 2em;
+}
+.specs u1{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.specs ul li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 0;
+    border-bottom: 1px #ccc solid;
+}
+.banner-img{
+    background: 
+    url()
+    no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    min-height: 40em;
+    transition: 0.3s;
+}
+.about{
+    
+}
