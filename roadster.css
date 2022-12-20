@@ -109,4 +109,11 @@ body{
     z-index: 1;
     opacity: 0;
     display: none;
+    transition: 0.3s;
+}
+.header-body{
+    flex-direction: column;
+    text-align: center;
+    height: 90%;
+    padding: 0 2em;
 }
